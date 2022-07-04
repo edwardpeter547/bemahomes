@@ -1,0 +1,2 @@
+# bemahomes
+BemaHomes is an Integrated Real Estate Management Solution that allow you manage your real estates, single and multiple properties. Originally Deployed for Bema Construction Ltd. Accept online rent payments,  view financial data and keep receipts using the integrated accounting system.  BemaHomes includes all the tools you need to manage properties on your own, including online rental applications, tenant screening, and maintenance requests.
